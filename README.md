@@ -273,6 +273,7 @@ CMD ["node", "app.js"]
 ```
 
 ---
+![image](https://github.com/user-attachments/assets/220fb65b-dc80-45dc-bf93-7ddff13acc2e)
 
 ### **2. Build Docker Image**
 ```sh
@@ -280,6 +281,7 @@ docker build -t my-node-app .
 ```
 
 ---
+![image](https://github.com/user-attachments/assets/97107b58-a630-4fa9-bfda-ceaaeb36a7e8)
 
 ### **3. Test Docker Container**
 Chạy container từ image đã build:
@@ -295,6 +297,8 @@ curl http://localhost:3000
 Nếu thành công, bạn sẽ thấy thông báo:
 ```
 Hello, Docker!
+![image](https://github.com/user-attachments/assets/405eeef4-eb19-4419-98ed-f5079f462f38)
+
 
 
 

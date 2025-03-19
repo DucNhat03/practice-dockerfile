@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60b02de5-23ee-4ae3-9c7b-700960c39473)# Docker Commands Cheat Sheet
+# Docker Commands Cheat Sheet
 
 ## 1. Kiểm tra phiên bản Docker
 ```sh

@@ -297,8 +297,8 @@ curl http://localhost:3000
 Nếu thành công, bạn sẽ thấy thông báo:
 ```
 Hello, Docker!
+```
 ![image](https://github.com/user-attachments/assets/405eeef4-eb19-4419-98ed-f5079f462f38)
-
 
 
 
